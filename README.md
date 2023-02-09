@@ -1,0 +1,2 @@
+## How To Handle Routing in React Apps with React Router
+My code that I wrote after learning from [a post on DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-handle-routing-in-react-apps-with-react-router) about handling routing in react apps with react router. This is vital to the survival as a React developer. What spawned me onto what to learn this is, a product I am working on, [MERNStackStarter](https://github.com/serafirim/MERNStackStarter), has states and I was confused about what was going on.
